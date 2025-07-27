@@ -4,7 +4,7 @@ metadata:
  name: roboshop
 labels:
     course: "DevOps"
-    trainer: "SivaKumar R"
+    trainer: "SivaKumar_R"
 spec:
    containers:
     - name: nginx
