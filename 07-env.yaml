@@ -1,13 +1,13 @@
 apiVersion: v1
 kind: Pod
 metadata:
- name: env
-labels: 
-course: "DevOps"
-trainer: "SivaKumar_R"
-env:
- course: "DevOps"
- trainer: "SivaKumar_R"
+  name: env
+  labels: 
+    course: "DevOps"
+    trainer: "SivaKumar_R"
+  env:
+  course: "DevOps"
+  trainer: "SivaKumar_R"
 spec:
   containers:
   - name: nginx
