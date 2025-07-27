@@ -3,6 +3,6 @@ kind: Namespace
 metadata:
   name: roboshop
   labels:
-    course: "DevOps"
-    trainer: "SivaKumar R"
+    course: 'DevOps'
+    trainer: 'SivaKumar R'
     
