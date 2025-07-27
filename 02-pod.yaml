@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+ name: roboshop
+labels:
+    course: "DevOps"
+    trainer: "SivaKumar R"
+spec:
+   containers:
+    - name: nginx
+      image: nginx      
