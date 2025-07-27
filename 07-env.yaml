@@ -6,8 +6,8 @@ metadata:
     course: "DevOps"
     trainer: "SivaKumar_R"
   env:
-  course: "DevOps"
-  trainer: "SivaKumar_R"
+    course: "DevOps"
+    trainer: "SivaKumar_R"
 spec:
   containers:
   - name: nginx
