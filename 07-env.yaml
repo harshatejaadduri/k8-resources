@@ -11,5 +11,5 @@ spec:
   - name: nginx
     image: nginx
     env:
-    course: "DevOps"
-    trainer: "SivaKumar_R"  
+      course: "DevOps"
+      trainer: "SivaKumar_R"  
