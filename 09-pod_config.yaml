@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
- name: pod_config
+ name: pod-config
  labels:
   course: "DevOps"
   trainer: "SivaKumar_R"
