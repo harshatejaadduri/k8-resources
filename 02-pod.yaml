@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
  name: roboshop
-labels:
+ labels:
     course: "DevOps"
     trainer: "SivaKumar_R"
 spec:
