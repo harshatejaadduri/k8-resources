@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Pod 
+metadata: 
+  name: annotations
+  labels: 
+   course: "DevOps"
+   trainer: "SivaKumar_R"
+  annotations:
+   get: "hello all im learing devops and my triainer is sivakumar reddy m"
