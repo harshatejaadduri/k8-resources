@@ -1,11 +1,11 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: loadBalancer
+  name: loadbalancer
   labels: 
     purpose: service-demo
 spec:
-  type: loadBalancer
+  type: LoadBalancer
   selector: 
     purpose: service-demo
     environment: dev
